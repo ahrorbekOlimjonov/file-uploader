@@ -1,0 +1,58 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output of the 'go tool' command
+*.out
+
+# Dependencies
+vendor/
+
+# IDE and editor files
+.idea/
+*.iml
+.vscode/
+*.swp
+*~
+
+# Logs
+*.log
+
+# Build directories
+build/
+bin/
+pkg/
+
+# Environment variables
+.env
+
+# Go modules
+go.sum
+
+# Node modules (if applicable)
+node_modules/
+
+# Coverage files
+*.cover
+coverage.out
+coverage.html
+
+# Backup files
+*.bak
+
+# Executables
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Mac OS X files
+.DS_Store
+
+# Windows directory
+Thumbs.db
